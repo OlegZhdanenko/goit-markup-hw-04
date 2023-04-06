@@ -319,6 +319,16 @@ justify-content: center;
     background-color: var(--pressed-color);
 }
 /* -------------------------------custumers -----------------------*/
+.cust-title{
+margin-bottom: 72px;
+font-style: normal;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: var(--first-brand-color);
+}
 .cust-list{
     display: flex;
     justify-content: center;
