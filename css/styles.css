@@ -337,12 +337,12 @@ color: var(--first-brand-color);
 .cust-item{
     width: 168px;
     height: 88px;
-    border: 1px solid #8E8F99;
+    border-color: 1px solid #8E8F99;
     border-radius: 4px;
 }
 .cust-item:hover,
 .cust-item:focus{
-    border: 1px solid var(--pressed-color);;
+    border-color: 1px solid var(--pressed-color);;
 }
 .cust-link{
 display: flex;
